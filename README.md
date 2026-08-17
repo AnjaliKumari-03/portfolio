@@ -85,7 +85,7 @@ anjali-portfolio/
 
 **Anjali Kumari**
 📧 [anjalikumari17.main@gmail.com](mailto:anjalikumari17.main@gmail.com)
-💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/anjalikumari003/))
+💼 [LinkedIn](https://www.linkedin.com/in/anjalikumari003/)
 🖥️ [GitHub](https://github.com/AnjaliKumari-03)
 
 ---
